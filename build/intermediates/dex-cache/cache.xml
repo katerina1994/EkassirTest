@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_8b5cf2424ddb4d3255fd5b504bc061c33490ae78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_8fa18a25ca6f0de2bc5c11f62f57424066153387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_c9787663b0c0abc140397bf9254b32a4e63bdc58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_2caf0f40555c23eb4e14f79a34a4504fd79a3cf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_eed44d6deb1bfc62c7d4b70add65bd14587b10e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09e32f897528cdc38028e0370eae67b178ec9405">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_438442ddb363fe98f9407d1d08774f91cc46d24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ea178705c5631d9ce2d539bbaab63fbefb6bb1">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_402f421c9de1edc6954afe7278fc688b0c317556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_d49a076f3049f9a9961d44cd4e8eee2391eb6a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_96ffd2aaa1d34a2dce788c39c2940d8f624fbe9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_c7726c7b1e90087eeca962f002ed490e6ed65e5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_d6124795815b1fc50a88e120bbddda6170e8786c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_bd80cca085dc873ed3e155dd2a41f7c19351589d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_c6f542065a86dcdeecac64e1257d3209e2651505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_2d0fc47fa95948209187151aca67e574f2cd0d9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_ab8451ab30c885c71ec9743c68ba42948215eb1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EkassirTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\EkassirTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_0904a90a67dc4043a099776ab3f47ba69f06ac59\classes.dex" />
+    </item>
+
+</items>
